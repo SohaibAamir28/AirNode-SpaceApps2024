@@ -1,3 +1,4 @@
+# AirNode-NASA-SpaceApp2024
 # AirNode Air Quality and Impacting Factors Storytelling on Community Mapping
 
 ![AirNode Logo](./public/logo.png) <!-- Update the logo path if available -->
@@ -13,7 +14,7 @@ Air pollution is a major health concern, especially in urban areas during festiv
 https://youtube.com/playlist?list=PLu-CCIM-WT1Q5Vdjap0qF8_OgvsgcH08n&si=FdDEPUWhi0PnvJU6
 
 ## Final Project
-https://github.com/SohaibAamir28/AirNode-Air-Quality-NASA-Project
+https://github.com/SohaibAamir28/AirNode-SpaceApps2024
 
 ## Project Details
 This project focuses on air quality analysis and impact factors that can be correlated with air quality measurements, forecasts, and modeling. It presents a specific use case of **Hyderabad**, **Chennai**, and **Mumbai** during the Diwali festivities to determine how variations can be identified. Furthermore, the data is displayed in a storytelling format, tailored to two user roles:
