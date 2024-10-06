@@ -3,7 +3,12 @@
 
 ![AirNode Logo](./public/logo.png) <!-- Update the logo path if available -->
 
-## High-Level Summary
+## High-Level 
+
+https://air-node-nasa-space-app-2024.vercel.app/ 
+
+air-quality-prediction-algorithm.ipynb is in public folder.
+
 We developed an interactive dashboard that analyzes and visualizes air quality data in **Hyderabad**, **Chennai**, and **Mumbai** during the Diwali festivities. The dashboard uses GIS mapping and storytelling formats to present the data in an accessible way for both novice users and expert researchers. It incorporates real-time data from air quality sensors, satellite data, and other open datasets to provide a comprehensive view of air pollution levels and their impact factors.
 
 The project addresses the challenge of understanding and mitigating air pollution during Diwali, a time when air quality significantly deteriorates due to increased fireworks, traffic, and industrial activity. By providing a platform that visualizes air quality variations and correlates them with specific impact factors, the dashboard helps users identify pollution hotspots and understand the underlying causes. For novice users, it offers practical advice on how to avoid polluted areas, while for researchers, it highlights data gaps and opportunities for further study.
