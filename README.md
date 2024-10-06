@@ -17,7 +17,7 @@ https://youtube.com/playlist?list=PLu-CCIM-WT1Q5Vdjap0qF8_OgvsgcH08n&si=FdDEPUWh
 https://github.com/SohaibAamir28/AirNode-SpaceApps2024
 
 ## Project Details
-This project focuses on air quality analysis and impact factors that can be correlated with air quality measurements, forecasts, and modeling. It presents a specific use case of **Hyderabad**, **Chennai**, and **Mumbai** during the Diwali festivities to determine how variations can be identified. Furthermore, the data is displayed in a storytelling format, tailored to two user roles:
+This project focuses on air quality analysis and impact factors that can be correlated with air quality measurements, forecasts, and modeling. It presents a specific use case of **Hyderabad**, **Chennai**, and **Mumbai** 2018 to 2023 during the Diwali festivities to determine how variations can be identified. Furthermore, the data is displayed in a storytelling format, tailored to two user roles:
 1. **Novice User**: Aims to determine how to avoid air pollution or understand how air pollution varies in specific urban zones.
 2. **Researcher**: A NASA employee or other air quality or climate researcher/manager looking to identify available datasets for further research initiatives.
 
