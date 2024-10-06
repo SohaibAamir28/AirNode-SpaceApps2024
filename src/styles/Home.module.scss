@@ -1,0 +1,59 @@
+.title {
+  font-size: 3rem;
+  line-height: 1.15;
+  text-align: center;
+  margin: 0 0 1em;
+}
+
+.description {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.view {
+  text-align: center;
+  margin-top: 3em;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: space-between; // Space cards evenly
+  flex-wrap: wrap; // Wrap cards to the next line if needed
+  margin-top: 20px; // Space above the cards
+}
+
+.card {
+  background: white; // Background color for cards
+  border-radius: 8px; // Rounded corners
+  padding: 20px; // Padding inside the card
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); // Subtle shadow
+  width: 30%; // Card width (adjust as necessary)
+  margin: 10px; // Space between cards
+}
+
+.airQualityTable {
+  width: 100%; // Full width of the card
+  border-collapse: collapse; // Remove spacing between table cells
+}
+
+.airQualityTable th, .airQualityTable td {
+  border: 1px solid #ddd; // Border for table cells
+  padding: 8px; // Padding inside cells
+  text-align: left; // Align text to the left
+}
+
+.airQualityTable th {
+  background-color: #f2f2f2; // Light gray background for header
+}
+
+
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
